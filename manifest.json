@@ -1,0 +1,11 @@
+{
+  "name": "Vivid Voidpet Collector",
+  "description": "A tool to help you collect vivid voidpets.",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": ["activeTab", "scripting"],
+  "host_permissions": ["https://voidpet.com/"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
